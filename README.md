@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 
 
 
-#### [Instagram](https://www.instagram.com/yaboikevin42/) 
-#### [Portfolio](https://www.kevindev.com/)
