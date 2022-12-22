@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 #### :computer: JavaScript | Node.js/Express.js | SQL/NoSQL | REST | Postman | Authentication (OAuth 2.0, BCrypt, Passport.js, cookies) | Git (GitHub) | React (Hooks, Router) | Redux | HTML5/CSS/SCSS | jQuery | Agile/SCRUM Development | Python3 | Java
 
 
-#### [LinkedIn](https://www.linkedin.com/in/kevin-trinh-73a477212/)
+
 #### [Instagram](https://www.instagram.com/yaboikevin42/) 
 #### [Portfolio](https://www.kevindev.com/)
